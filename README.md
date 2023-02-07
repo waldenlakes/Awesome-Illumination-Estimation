@@ -4,6 +4,7 @@ A curated list of illumination estimation papers and resources.
 ## Table of Contents
 + [Papers](#Papers)
 + [Datasets](#Datasets)
++ [Challenges](#Challenges)
 
 ## Papers
 SV:Spatially-Varying, ID:Indoor, OD:Outdoor, E:Editable
@@ -52,3 +53,7 @@ Ourdoor Scenes:
 + Laval Indoor HDR Dataset [[link]](http://indoor.hdrdb.com/)
 + Laval Indoor Spatially Varying HDR Dataset [[link]](http://indoorsv.hdrdb.com/)
 + Laval Face & Lighting HDR Dataset [[link]](http://faces.hdrdb.com/)
+
+## Challenges
++ AIM 2020: Scene Relighting and Illumination Estimation Challenge [[link]](https://data.vision.ee.ethz.ch/cvl/aim20/) [[Paper]](https://arxiv.org/abs/2009.12798)
+
