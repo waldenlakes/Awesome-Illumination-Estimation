@@ -56,4 +56,4 @@ Ourdoor Scenes:
 
 ## Challenges
 + AIM 2020: Scene Relighting and Illumination Estimation Challenge @ECCV [[link]](https://data.vision.ee.ethz.ch/cvl/aim20/) [[Paper]](https://arxiv.org/abs/2009.12798)
-+ Illumination Estimation Challenge 2019, 2020 @ISPA [[link](https://nightimaging.org/index.html) [[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1002/col.22675)
++ Illumination Estimation Challenge 2019, 2020 @ISPA [[link]](https://nightimaging.org/index.html) [[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1002/col.22675)
