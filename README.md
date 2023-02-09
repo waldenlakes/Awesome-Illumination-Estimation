@@ -15,7 +15,6 @@ Indoor Scenes:
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |2022|ECCV|[Stylelight: Hdr panorama generation for lighting estimation and editing](https://arxiv.org/pdf/2207.14811.pdf)|[Code](https://github.com/Wanggcong/StyleLight)|[LavalIndoorHDR](http://indoor.hdrdb.com/)||&#10003;||
 |2022|ECCV|[Editable indoor lighting estimation](https://arxiv.org/pdf/2211.03928.pdf)|[Proj](https://lvsn.github.io/EditableIndoorLight/)|[LavalIndoorHDR](http://indoor.hdrdb.com/)||&#10003;||
-|2021|ICCV|[Learning indoor inverse rendering with 3d spatially-varying lighting](http://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Learning_Indoor_Inverse_Rendering_With_3D_Spatially-Varying_Lighting_ICCV_2021_paper.pdf)|[Proj](https://nv-tlabs.github.io/inverse-rendering-3d-lighting/)|[InteriorNet](https://interiornet.org/)|&#10003;|&#10003;||
 |2021|ICCV|[Sparse needlets for lighting estimation with spherical transport loss](http://openaccess.thecvf.com/content/ICCV2021/papers/Zhan_Sparse_Needlets_for_Lighting_Estimation_With_Spherical_Transport_Loss_ICCV_2021_paper.pdf)|[Code](https://github.com/fnzhan/EMLight/tree/master/Needlets)|[LavalIndoorHDR](http://indoor.hdrdb.com/)||&#10003;||
 |2021|CVPR|[HDR environment map estimation for real-time augmented reality](https://openaccess.thecvf.com/content/CVPR2021/papers/Somanath_HDR_Environment_Map_Estimation_for_Real-Time_Augmented_Reality_CVPR_2021_paper.pdf)|[Code](https://github.com/apple/ml-envmapnet)|[LavalIndoorHDR](http://indoor.hdrdb.com/)||&#10003;||
 |2021|AAAI|[Emlight: Lighting estimation via spherical distribution approximation](https://ojs.aaai.org/index.php/AAAI/article/download/16440/16247)|[Code](https://github.com/fnzhan/EMLight)|[LavalIndoorHDR](http://indoor.hdrdb.com/)||&#10003;||
@@ -38,6 +37,14 @@ Ourdoor Scenes:
 |2019|CVPR|[All-weather deep outdoor lighting estimation](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_All-Weather_Deep_Outdoor_Lighting_Estimation_CVPR_2019_paper.pdf)|[Proj](https://lvsn.github.io/allweather/)||||&#10003;|
 |2017|ICCV|[Learning high dynamic range from outdoor panoramas](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_Learning_High_Dynamic_ICCV_2017_paper.pdf)|[Proj](http://vision.gel.ulaval.ca/~jflalonde/publications/projects/learningHDR/)||||&#10003;|
 
+Inverse-rendering based Methods:
+|Year|Venue|Paper|Repo|Data|SV|ID|OD|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|2022|ECCV|[Physically-Based Editing of Indoor Scene Lighting from a Single Image](https://arxiv.org/pdf/2205.09343.pdf)|[Proj](https://vilab-ucsd.github.io/ucsd-IndoorLightEditing/) & [Code](https://github.com/ViLab-UCSD/IndoorLightEditing)|[OpenRoom](https://vilab-ucsd.github.io/ucsd-openrooms/)|&#10003;|&#10003;||
+|2022|CVPR|[IRISformer: Dense Vision Transformers for Single-Image Inverse Rendering in Indoor Scenes](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_IRISformer_Dense_Vision_Transformers_for_Single-Image_Inverse_Rendering_in_Indoor_CVPR_2022_paper.pdf)|[Code](https://github.com/ViLab-UCSD/IRISformer)|[OpenRoom](https://vilab-ucsd.github.io/ucsd-openrooms/)|&#10003;|&#10003;||
+|2021|ICCV|[Learning indoor inverse rendering with 3d spatially-varying lighting](http://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Learning_Indoor_Inverse_Rendering_With_3D_Spatially-Varying_Lighting_ICCV_2021_paper.pdf)|[Proj](https://nv-tlabs.github.io/inverse-rendering-3d-lighting/)|[InteriorNet](https://interiornet.org/)|&#10003;|&#10003;||
+|2020|CVPR|[Inverse rendering for complex indoor scenes: Shape, spatially-varying lighting and svbrdf from a single image](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Inverse_Rendering_for_Complex_Indoor_Scenes_Shape_Spatially-Varying_Lighting_and_CVPR_2020_paper.pdf)|[Code](https://github.com/lzqsd/InverseRenderingOfIndoorScene)|[OpenRoom](https://vilab-ucsd.github.io/ucsd-openrooms/)|&#10003;|&#10003;||
+
 ### Capture-based Methods
 |Year|Venue|Paper|Repo|Data|SV|ID|OD|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -53,6 +60,7 @@ Ourdoor Scenes:
 + Laval Indoor HDR Dataset [[link]](http://indoor.hdrdb.com/)
 + Laval Indoor Spatially Varying HDR Dataset [[link]](http://indoorsv.hdrdb.com/)
 + Laval Face & Lighting HDR Dataset [[link]](http://faces.hdrdb.com/)
++ OpenRooms Dataset [[link]](https://vilab-ucsd.github.io/ucsd-openrooms/)
 
 ## Challenges
 + AIM 2020: Scene Relighting and Illumination Estimation Challenge @ECCV [[link]](https://data.vision.ee.ethz.ch/cvl/aim20/) [[Paper]](https://arxiv.org/abs/2009.12798)
