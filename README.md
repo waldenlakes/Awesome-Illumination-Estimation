@@ -63,6 +63,8 @@ Inverse-rendering based Methods:
 + Laval Indoor Spatially Varying HDR Dataset [[link]](http://indoorsv.hdrdb.com/)
 + Laval Face & Lighting HDR Dataset [[link]](http://faces.hdrdb.com/)
 + OpenRooms Dataset [[link]](https://vilab-ucsd.github.io/ucsd-openrooms/)
++ FutureHouse Dataset [[link]](https://github.com/LZleejean/FutureHouse)
++ InteriorVerse: Large-scale Photorealistic Indoor Scene Dataset [[link]](https://interiorverse.github.io/)
 
 ## Challenges
 + AIM 2020: Scene Relighting and Illumination Estimation Challenge @ECCV [[link]](https://data.vision.ee.ethz.ch/cvl/aim20/) [[Paper]](https://arxiv.org/abs/2009.12798)
