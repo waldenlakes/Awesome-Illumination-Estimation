@@ -40,6 +40,7 @@ Ourdoor Scenes:
 Inverse-rendering based Methods:
 |Year|Venue|Paper|Repo|Data|SV|ID|OD|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|2022|SIGGRAPH Asia|[Learning-based Inverse Rendering of Complex Indoor Scenes with Differentiable Monte Carlo Raytracing](https://arxiv.org/abs/2211.03017)|[Proj](https://jingsenzhu.github.io/invrend/) & [Code](https://github.com/jingsenzhu/IndoorInverseRendering)|[InteriorVerse](https://interiorverse.github.io/)|&#10003;|&#10003;||
 |2022|ECCV|[Physically-Based Editing of Indoor Scene Lighting from a Single Image](https://arxiv.org/pdf/2205.09343.pdf)|[Proj](https://vilab-ucsd.github.io/ucsd-IndoorLightEditing/) & [Code](https://github.com/ViLab-UCSD/IndoorLightEditing)|[OpenRoom](https://vilab-ucsd.github.io/ucsd-openrooms/)|&#10003;|&#10003;||
 |2022|CVPR|[IRISformer: Dense Vision Transformers for Single-Image Inverse Rendering in Indoor Scenes](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_IRISformer_Dense_Vision_Transformers_for_Single-Image_Inverse_Rendering_in_Indoor_CVPR_2022_paper.pdf)|[Code](https://github.com/ViLab-UCSD/IRISformer)|[OpenRoom](https://vilab-ucsd.github.io/ucsd-openrooms/)|&#10003;|&#10003;||
 |2022|CVPR|[PhyIR: Physics-based Inverse Rendering for Panoramic Indoor Images](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_PhyIR_Physics-Based_Inverse_Rendering_for_Panoramic_Indoor_Images_CVPR_2022_paper.pdf)|[Proj](https://lzleejean.github.io/PhyIR)|[FutureHouse](https://github.com/LZleejean/FutureHouse)|&#10003;|&#10003;||
