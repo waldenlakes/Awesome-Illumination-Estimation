@@ -13,7 +13,7 @@ SV:Spatially-Varying, ID:Indoor, OD:Outdoor, E:Editable
 Indoor Scenes:
 |Year|Venue|Paper|Repo|Data|SV|ID|OD|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|2023|ArXiv|[Local-to-Global Panorama Inpainting for Locale-Aware Indoor Lighting Prediction](https://arxiv.org/abs/2303.10344)||&#10003;|&#10003;||
+|2023|ArXiv|[Local-to-Global Panorama Inpainting for Locale-Aware Indoor Lighting Prediction](https://arxiv.org/abs/2303.10344)|||&#10003;|&#10003;||
 |2022|ECCV|[Stylelight: Hdr panorama generation for lighting estimation and editing](https://arxiv.org/pdf/2207.14811.pdf)|[Code](https://github.com/Wanggcong/StyleLight)|[LavalIndoorHDR](http://indoor.hdrdb.com/)||&#10003;||
 |2022|ECCV|[Physically-based Editing of Indoor Scene Lighting from a Single Image](https://arxiv.org/abs/2205.09343)|[Proj](https://jerrypiglet.github.io/publication/eccv2022-zhengqin/) & [Code](https://github.com/ViLab-UCSD/IndoorLightEditing)|[OpenRooms](https://github.com/ViLab-UCSD/OpenRooms)|&#10003;|&#10003;||
 |2022|ECCV|[Editable indoor lighting estimation](https://arxiv.org/pdf/2211.03928.pdf)|[Proj](https://lvsn.github.io/EditableIndoorLight/)|[LavalIndoorHDR](http://indoor.hdrdb.com/)||&#10003;||
