@@ -14,6 +14,7 @@ Indoor Scenes:
 |Year|Venue|Paper|Repo|Data|SV|ID|OD|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |2022|ECCV|[Stylelight: Hdr panorama generation for lighting estimation and editing](https://arxiv.org/pdf/2207.14811.pdf)|[Code](https://github.com/Wanggcong/StyleLight)|[LavalIndoorHDR](http://indoor.hdrdb.com/)||&#10003;||
+|2022|ECCV|[Physically-based Editing of Indoor Scene Lighting from a Single Image](https://arxiv.org/abs/2205.09343)|[Proj](https://jerrypiglet.github.io/publication/eccv2022-zhengqin/) & [Code](https://github.com/ViLab-UCSD/IndoorLightEditing)|[OpenRooms](https://github.com/ViLab-UCSD/OpenRooms)|&#10003;|&#10003;||
 |2022|ECCV|[Editable indoor lighting estimation](https://arxiv.org/pdf/2211.03928.pdf)|[Proj](https://lvsn.github.io/EditableIndoorLight/)|[LavalIndoorHDR](http://indoor.hdrdb.com/)||&#10003;||
 |2021|ICCV|[Sparse needlets for lighting estimation with spherical transport loss](http://openaccess.thecvf.com/content/ICCV2021/papers/Zhan_Sparse_Needlets_for_Lighting_Estimation_With_Spherical_Transport_Loss_ICCV_2021_paper.pdf)|[Code](https://github.com/fnzhan/EMLight/tree/master/Needlets)|[LavalIndoorHDR](http://indoor.hdrdb.com/)||&#10003;||
 |2021|CVPR|[HDR environment map estimation for real-time augmented reality](https://openaccess.thecvf.com/content/CVPR2021/papers/Somanath_HDR_Environment_Map_Estimation_for_Real-Time_Augmented_Reality_CVPR_2021_paper.pdf)|[Code](https://github.com/apple/ml-envmapnet)|[LavalIndoorHDR](http://indoor.hdrdb.com/)||&#10003;||
