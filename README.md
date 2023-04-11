@@ -42,6 +42,7 @@ Ourdoor Scenes:
 Inverse-rendering based Methods:
 |Year|Venue|Paper|Repo|Data|SV|ID|OD|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|2023|CVPR|[MAIR: Multi-view Attention Inverse Rendering with 3D Spatially-Varying Lighting Estimation](https://arxiv.org/abs/2303.12368)|[Proj](https://bring728.github.io/mair.project/)|[OpenRoom FF](https://github.com/bring728/OpenRooms_FF)|&#10003;|&#10003;||
 |2023|CVPR|[Multi-view Inverse Rendering for Large-scale Real-world Indoor Scenes](https://arxiv.org/abs/2211.10206)|[Proj](http://yodlee.top/TexIR/) & [Code]()|[Dataset]()|&#10003;|&#10003;||
 |2022|SIGGRAPH Asia|[Learning-based Inverse Rendering of Complex Indoor Scenes with Differentiable Monte Carlo Raytracing](https://arxiv.org/abs/2211.03017)|[Proj](https://jingsenzhu.github.io/invrend/) & [Code](https://github.com/jingsenzhu/IndoorInverseRendering)|[InteriorVerse](https://interiorverse.github.io/)|&#10003;|&#10003;||
 |2022|ECCV|[Physically-Based Editing of Indoor Scene Lighting from a Single Image](https://arxiv.org/pdf/2205.09343.pdf)|[Proj](https://vilab-ucsd.github.io/ucsd-IndoorLightEditing/) & [Code](https://github.com/ViLab-UCSD/IndoorLightEditing)|[OpenRoom](https://vilab-ucsd.github.io/ucsd-openrooms/)|&#10003;|&#10003;||
