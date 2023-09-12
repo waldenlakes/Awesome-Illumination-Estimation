@@ -13,6 +13,8 @@ SV:Spatially-Varying, ID:Indoor, OD:Outdoor, E:Editable
 Indoor Scenes:
 |Year|Venue|Paper|Repo|Data|SV|ID|OD|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|2023|ICCV|[EverLight: Indoor-Outdoor Editable HDR Lighting Estimation](https://arxiv.org/abs/2304.13207)|[Proj](https://lvsn.github.io/everlight/)|||&#10003;|&#10003;|
+|2023|ICCV|[Beyond the Pixel: a Photometrically Calibrated HDR Dataset for Luminance and Color Prediction](https://arxiv.org/abs/2304.12372)|[Proj](https://lvsn.github.io/beyondthepixel/) & [Code](https://github.com/lvsn/beyondthepixel)|[LavalPhotometricIndoorHDR](http://hdrdb.com/indoor_hdr_photometric/)||&#10003;||
 |2023|ArXiv|[Local-to-Global Panorama Inpainting for Locale-Aware Indoor Lighting Prediction](https://arxiv.org/abs/2303.10344)|||&#10003;|&#10003;||
 |2022|ECCV|[Stylelight: Hdr panorama generation for lighting estimation and editing](https://arxiv.org/pdf/2207.14811.pdf)|[Code](https://github.com/Wanggcong/StyleLight)|[LavalIndoorHDR](http://indoor.hdrdb.com/)||&#10003;||
 |2022|ECCV|[Physically-based Editing of Indoor Scene Lighting from a Single Image](https://arxiv.org/abs/2205.09343)|[Proj](https://jerrypiglet.github.io/publication/eccv2022-zhengqin/) & [Code](https://github.com/ViLab-UCSD/IndoorLightEditing)|[OpenRooms](https://github.com/ViLab-UCSD/OpenRooms)|&#10003;|&#10003;||
@@ -42,6 +44,8 @@ Ourdoor Scenes:
 Inverse-rendering based Methods:
 |Year|Venue|Paper|Repo|Data|SV|ID|OD|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|2023|ArXiv|[PSDR-Room: Single Photo to Scene using Differentiable Rendering](https://arxiv.org/abs/2307.03244)|||&#10003;|&#10003;||
+|2023|ICCV|[FIPT: Factorized Inverse Path Tracing for Efficient and Accurate Material-Lighting Estimation](https://arxiv.org/abs/2303.12368)|[Proj](https://jerrypiglet.github.io/fipt-ucsd/) & [Code](https://github.com/lwwu2/fipt)|[FIPT-data](https://github.com/Jerrypiglet/rui-indoorinv-data/tree/fipt)|&#10003;|&#10003;||
 |2023|CVPR|[MAIR: Multi-view Attention Inverse Rendering with 3D Spatially-Varying Lighting Estimation](https://arxiv.org/abs/2303.12368)|[Proj](https://bring728.github.io/mair.project/)|[OpenRoom FF](https://github.com/bring728/OpenRooms_FF)|&#10003;|&#10003;||
 |2023|CVPR|[Multi-view Inverse Rendering for Large-scale Real-world Indoor Scenes](https://arxiv.org/abs/2211.10206)|[Proj](http://yodlee.top/TexIR/) & [Code]()|[Dataset]()|&#10003;|&#10003;||
 |2022|SIGGRAPH Asia|[Learning-based Inverse Rendering of Complex Indoor Scenes with Differentiable Monte Carlo Raytracing](https://arxiv.org/abs/2211.03017)|[Proj](https://jingsenzhu.github.io/invrend/) & [Code](https://github.com/jingsenzhu/IndoorInverseRendering)|[InteriorVerse](https://interiorverse.github.io/)|&#10003;|&#10003;||
@@ -62,6 +66,7 @@ Inverse-rendering based Methods:
 
 
 ## Datasets
++ Laval Photometric Indoor HDR Dataset [[link]](http://hdrdb.com/indoor_hdr_photometric/)
 + Laval Outdoor HDR Dataset [[link]](http://outdoor.hdrdb.com/)
 + Laval Indoor HDR Dataset [[link]](http://indoor.hdrdb.com/)
 + Laval Indoor Spatially Varying HDR Dataset [[link]](http://indoorsv.hdrdb.com/)
