@@ -44,6 +44,7 @@ Ourdoor Scenes:
 Inverse-rendering based Methods:
 |Year|Venue|Paper|Repo|Data|SV|ID|OD|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|2023|SIGGRAPH Asia|[Diffusion Posterior Illumination for Ambiguity-aware Inverse Rendering](https://vcai.mpi-inf.mpg.de/projects/2023-DPE/papers/main_paper.pdf)|[Proj](https://vcai.mpi-inf.mpg.de/projects/2023-DPE/)|||&#10003;|&#10003;|
 |2023|ArXiv|[PSDR-Room: Single Photo to Scene using Differentiable Rendering](https://arxiv.org/abs/2307.03244)|||&#10003;|&#10003;||
 |2023|ICCV|[FIPT: Factorized Inverse Path Tracing for Efficient and Accurate Material-Lighting Estimation](https://arxiv.org/abs/2303.12368)|[Proj](https://jerrypiglet.github.io/fipt-ucsd/) & [Code](https://github.com/lwwu2/fipt)|[FIPT-data](https://github.com/Jerrypiglet/rui-indoorinv-data/tree/fipt)|&#10003;|&#10003;||
 |2023|CVPR|[MAIR: Multi-view Attention Inverse Rendering with 3D Spatially-Varying Lighting Estimation](https://arxiv.org/abs/2303.12368)|[Proj](https://bring728.github.io/mair.project/)|[OpenRoom FF](https://github.com/bring728/OpenRooms_FF)|&#10003;|&#10003;||
