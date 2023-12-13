@@ -13,6 +13,7 @@ SV:Spatially-Varying, ID:Indoor, OD:Outdoor, E:Editable
 Indoor Scenes:
 |Year|Venue|Paper|Repo|Data|SV|ID|OD|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|2023|ArXiv|[Towards a Perceptual Evaluation Framework for Lighting Estimation](https://arxiv.org/abs/2312.04334)|[Proj](https://lvsn.github.io/PerceptionMetric/)|||&#10003;|&#10003;|
 |2023|ICCV|[EverLight: Indoor-Outdoor Editable HDR Lighting Estimation](https://arxiv.org/abs/2304.13207)|[Proj](https://lvsn.github.io/everlight/)|||&#10003;|&#10003;|
 |2023|ICCV|[Beyond the Pixel: a Photometrically Calibrated HDR Dataset for Luminance and Color Prediction](https://arxiv.org/abs/2304.12372)|[Proj](https://lvsn.github.io/beyondthepixel/) & [Code](https://github.com/lvsn/beyondthepixel)|[LavalPhotometricIndoorHDR](http://hdrdb.com/indoor_hdr_photometric/)||&#10003;||
 |2023|ArXiv|[Local-to-Global Panorama Inpainting for Locale-Aware Indoor Lighting Prediction](https://arxiv.org/abs/2303.10344)|||&#10003;|&#10003;||
@@ -44,6 +45,8 @@ Ourdoor Scenes:
 Inverse-rendering based Methods:
 |Year|Venue|Paper|Repo|Data|SV|ID|OD|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|2023|ArXiv|[Diffusion Reflectance Map: Single-Image Stochastic Inverse Rendering of Illumination and Reflectance](https://arxiv.org/pdf/2312.04529.pdf)|[Proj](https://vision.ist.i.kyoto-u.ac.jp/)|||&#10003;|&#10003;|
+|2023|T-PAMI|[SPLiT: Single Portrait Lighting Estimation Via a Tetrad of Face Intrinsics](https://ieeexplore.ieee.org/document/10301699)||||&#10003;|&#10003;|
 |2023|SIGGRAPH Asia|[Diffusion Posterior Illumination for Ambiguity-aware Inverse Rendering](https://vcai.mpi-inf.mpg.de/projects/2023-DPE/papers/main_paper.pdf)|[Proj](https://vcai.mpi-inf.mpg.de/projects/2023-DPE/)|||&#10003;|&#10003;|
 |2023|ArXiv|[PSDR-Room: Single Photo to Scene using Differentiable Rendering](https://arxiv.org/abs/2307.03244)|||&#10003;|&#10003;||
 |2023|ICCV|[FIPT: Factorized Inverse Path Tracing for Efficient and Accurate Material-Lighting Estimation](https://arxiv.org/abs/2303.12368)|[Proj](https://jerrypiglet.github.io/fipt-ucsd/) & [Code](https://github.com/lwwu2/fipt)|[FIPT-data](https://github.com/Jerrypiglet/rui-indoorinv-data/tree/fipt)|&#10003;|&#10003;||
