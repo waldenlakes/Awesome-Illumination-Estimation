@@ -34,6 +34,7 @@ Indoor Scenes:
 Ourdoor Scenes:
 |Year|Venue|Paper|Repo|Data|SV|ID|OD|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|2023|ArXiv|[DiffusionLight: Light Probes for Free by Painting a Chrome Ball](https://arxiv.org/abs/2312.09168)|[Proj](https://diffusionlight.github.io/) & [Code](https://github.com/DiffusionLight/DiffusionLight)|||&#10003;|&#10003;|
 |2022|ECCV|[Neural Light Field Estimation for Street Scenes with Differentiable Virtual Object Insertion](https://arxiv.org/pdf/2208.09480.pdf)|[Proj](https://nv-tlabs.github.io/outdoor-ar/)||||&#10003;|
 |2022|ECCV|[Estimating Spatially-Varying Lighting in Urban Scenes with Disentangled Representation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136660445.pdf)|[Code](https://github.com/ChemJeff/SOLD-Net/)||&#10003;||&#10003;|
 |2021|ICCV|[Hierarchical disentangled representation learning for outdoor illumination estimation and editing](https://openaccess.thecvf.com/content/ICCV2021/papers/Yu_Hierarchical_Disentangled_Representation_Learning_for_Outdoor_Illumination_Estimation_and_Editing_ICCV_2021_paper.pdf)|||&#10003;||&#10003;|
