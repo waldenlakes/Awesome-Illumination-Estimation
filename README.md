@@ -47,7 +47,9 @@ Ourdoor Scenes:
 Inverse-rendering based Methods:
 |Year|Venue|Paper|Repo|Data|SV|ID|OD|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|2023|ArXiv|[Diffusion Reflectance Map: Single-Image Stochastic Inverse Rendering of Illumination and Reflectance](https://arxiv.org/pdf/2312.04529.pdf)|[Proj](https://vision.ist.i.kyoto-u.ac.jp/)|||&#10003;|&#10003;|
+|2024|CVPR|[Diffusion Reflectance Map: Single-Image Stochastic Inverse Rendering of Illumination and Reflectance](https://arxiv.org/pdf/2312.04529.pdf)|[Proj](https://vision.ist.i.kyoto-u.ac.jp/)|||&#10003;|&#10003;|
+|2024|CVPR|[Eclipse: Disambiguating Illumination and Materials using Unintended Shadows](https://openaccess.thecvf.com/content/CVPR2024/papers/Verbin_Eclipse_Disambiguating_Illumination_and_Materials_using_Unintended_Shadows_CVPR_2024_paper.pdf)|[Proj](https://dorverbin.github.io/eclipse/)|Capture||&#10003;|&#10003;|
+|2024|CVPR|[SHINOBI: Shape and Illumination using Neural Object Decomposition via BRDF Optimization In-the-wild](https://openaccess.thecvf.com/content/CVPR2024/papers/Engelhardt_SHINOBI_Shape_and_Illumination_using_Neural_Object_Decomposition_via_BRDF_CVPR_2024_paper.pdf)|[Proj](https://shinobi.aengelhardt.com)|||&#10003;|&#10003;|
 |2023|T-PAMI|[SPLiT: Single Portrait Lighting Estimation Via a Tetrad of Face Intrinsics](https://ieeexplore.ieee.org/document/10301699)||||&#10003;|&#10003;|
 |2023|SIGGRAPH Asia|[Diffusion Posterior Illumination for Ambiguity-aware Inverse Rendering](https://vcai.mpi-inf.mpg.de/projects/2023-DPE/papers/main_paper.pdf)|[Proj](https://vcai.mpi-inf.mpg.de/projects/2023-DPE/)|||&#10003;|&#10003;|
 |2023|ArXiv|[PSDR-Room: Single Photo to Scene using Differentiable Rendering](https://arxiv.org/abs/2307.03244)|||&#10003;|&#10003;||
@@ -64,8 +66,8 @@ Inverse-rendering based Methods:
 ### Capture-based Methods
 |Year|Venue|Paper|Repo|Data|SV|ID|OD|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|2023|ArXiv|[Accidental Light Probes](https://arxiv.org/pdf/2301.05211.pdf)|[Proj](https://kovenyu.com/ALP)|Capture||&#10003;|&#10003;|
-|2022|ArXiv|[ORCa: Glossy Objects as Radiance Field Cameras](https://arxiv.org/pdf/2212.04531.pdf)|[Proj](https://ktiwary2.github.io/objectsascam/)|[Polarimetric](https://akshatdave.github.io/pandora/index.html)||&#10003;|&#10003;|
+|2023|CVPR|[Accidental Light Probes](https://arxiv.org/pdf/2301.05211.pdf)|[Proj](https://kovenyu.com/ALP)|Capture||&#10003;|&#10003;|
+|2023|CVPR|[ORCa: Glossy Objects as Radiance Field Cameras](https://arxiv.org/pdf/2212.04531.pdf)|[Proj](https://ktiwary2.github.io/objectsascam/)|[Polarimetric](https://akshatdave.github.io/pandora/index.html)||&#10003;|&#10003;|
 |2021|ICCV|[Objects as cameras: Estimating high-frequency illumination from shadows](https://openaccess.thecvf.com/content/ICCV2021/papers/Swedish_Objects_As_Cameras_Estimating_High-Frequency_Illumination_From_Shadows_ICCV_2021_paper.pdf)||[hdrihaven.com](https://hdrihaven.com) & Capture||&#10003;|&#10003;|
 |2021|CVPR|[Indoor lighting estimation using an event camera](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Indoor_Lighting_Estimation_Using_an_Event_Camera_CVPR_2021_paper.pdf)||Capture|&#10003;|&#10003;||
 |2020|ECCV|[Object-based illumination estimation with rendering-aware neural networks](https://arxiv.org/pdf/2008.02514.pdf)|[Proj](https://yuedong.shading.me/project/lightest/lightest.htm)|Collect||&#10003;||
