@@ -13,7 +13,9 @@ SV:Spatially-Varying, ID:Indoor, OD:Outdoor, E:Editable
 Indoor Scenes:
 |Year|Venue|Paper|Repo|Data|SV|ID|OD|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|2023|ArXiv|[Towards a Perceptual Evaluation Framework for Lighting Estimation](https://arxiv.org/abs/2312.04334)|[Proj](https://lvsn.github.io/PerceptionMetric/)|||&#10003;|&#10003;|
+|2024|CVPR|[LightOctree: Lightweight 3D Spatially-Coherent Indoor Lighting Estimation](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_LightOctree_Lightweight_3D_Spatially-Coherent_Indoor_Lighting_Estimation_CVPR_2024_paper.html)|||&#10003;|&#10003;||
+|2024|CVPR|[DiffusionLight: Light Probes for Free by Painting a Chrome Ball](https://openaccess.thecvf.com/content/CVPR2024/papers/Phongthawee_DiffusionLight_Light_Probes_for_Free_by_Painting_a_Chrome_Ball_CVPR_2024_paper.pdf)|[Proj](https://diffusionlight.github.io/) & [Code](https://github.com/DiffusionLight/DiffusionLight)|||&#10003;|&#10003;|
+|2024|CVPR|[Towards a Perceptual Evaluation Framework for Lighting Estimation](https://openaccess.thecvf.com/content/CVPR2024/html/Giroux_Towards_a_Perceptual_Evaluation_Framework_for_Lighting_Estimation_CVPR_2024_paper.html)|[Proj](https://lvsn.github.io/PerceptionMetric/)|||&#10003;|&#10003;|
 |2023|ICCV|[EverLight: Indoor-Outdoor Editable HDR Lighting Estimation](https://arxiv.org/abs/2304.13207)|[Proj](https://lvsn.github.io/everlight/)|||&#10003;|&#10003;|
 |2023|ICCV|[Beyond the Pixel: a Photometrically Calibrated HDR Dataset for Luminance and Color Prediction](https://arxiv.org/abs/2304.12372)|[Proj](https://lvsn.github.io/beyondthepixel/) & [Code](https://github.com/lvsn/beyondthepixel)|[LavalPhotometricIndoorHDR](http://hdrdb.com/indoor_hdr_photometric/)||&#10003;||
 |2023|ArXiv|[Local-to-Global Panorama Inpainting for Locale-Aware Indoor Lighting Prediction](https://arxiv.org/abs/2303.10344)|||&#10003;|&#10003;||
@@ -34,7 +36,6 @@ Indoor Scenes:
 Ourdoor Scenes:
 |Year|Venue|Paper|Repo|Data|SV|ID|OD|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|2023|ArXiv|[DiffusionLight: Light Probes for Free by Painting a Chrome Ball](https://arxiv.org/abs/2312.09168)|[Proj](https://diffusionlight.github.io/) & [Code](https://github.com/DiffusionLight/DiffusionLight)|||&#10003;|&#10003;|
 |2022|ECCV|[Neural Light Field Estimation for Street Scenes with Differentiable Virtual Object Insertion](https://arxiv.org/pdf/2208.09480.pdf)|[Proj](https://nv-tlabs.github.io/outdoor-ar/)||||&#10003;|
 |2022|ECCV|[Estimating Spatially-Varying Lighting in Urban Scenes with Disentangled Representation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136660445.pdf)|[Code](https://github.com/ChemJeff/SOLD-Net/)||&#10003;||&#10003;|
 |2021|ICCV|[Hierarchical disentangled representation learning for outdoor illumination estimation and editing](https://openaccess.thecvf.com/content/ICCV2021/papers/Yu_Hierarchical_Disentangled_Representation_Learning_for_Outdoor_Illumination_Estimation_and_Editing_ICCV_2021_paper.pdf)|||&#10003;||&#10003;|
