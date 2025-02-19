@@ -17,7 +17,7 @@ Indoor Scenes:
 |2024|CVPR|[DiffusionLight: Light Probes for Free by Painting a Chrome Ball](https://openaccess.thecvf.com/content/CVPR2024/papers/Phongthawee_DiffusionLight_Light_Probes_for_Free_by_Painting_a_Chrome_Ball_CVPR_2024_paper.pdf)|[Proj](https://diffusionlight.github.io/) & [Code](https://github.com/DiffusionLight/DiffusionLight)|||&#10003;|&#10003;|
 |2024|CVPR|[Towards a Perceptual Evaluation Framework for Lighting Estimation](https://openaccess.thecvf.com/content/CVPR2024/html/Giroux_Towards_a_Perceptual_Evaluation_Framework_for_Lighting_Estimation_CVPR_2024_paper.html)|[Proj](https://lvsn.github.io/PerceptionMetric/)|||&#10003;|&#10003;|
 |2023|ICCV|[EverLight: Indoor-Outdoor Editable HDR Lighting Estimation](https://arxiv.org/abs/2304.13207)|[Proj](https://lvsn.github.io/everlight/)|||&#10003;|&#10003;|
-|2023|ICCV|[Beyond the Pixel: a Photometrically Calibrated HDR Dataset for Luminance and Color Prediction](https://arxiv.org/abs/2304.12372)|[Proj](https://lvsn.github.io/beyondthepixel/) & [Code](https://github.com/lvsn/beyondthepixel)|[LavalPhotometricIndoorHDR](http://hdrdb.com/indoor_hdr_photometric/)||&#10003;||
+|2023|ICCV|[Beyond the Pixel: a Photometrically Calibrated HDR Dataset for Luminance and Color Prediction](https://arxiv.org/abs/2304.12372)|[Proj](https://lvsn.github.io/beyondthepixel/) & [Code](https://github.com/lvsn/beyondthepixel)|[LavalPhotometricIndoorHDR](http://hdrdb.com/indoor-hdr-photometric/)||&#10003;||
 |2023|ArXiv|[Local-to-Global Panorama Inpainting for Locale-Aware Indoor Lighting Prediction](https://arxiv.org/abs/2303.10344)|||&#10003;|&#10003;||
 |2022|ECCV|[Stylelight: Hdr panorama generation for lighting estimation and editing](https://arxiv.org/pdf/2207.14811.pdf)|[Code](https://github.com/Wanggcong/StyleLight)|[LavalIndoorHDR](http://indoor.hdrdb.com/)||&#10003;||
 |2022|ECCV|[Physically-based Editing of Indoor Scene Lighting from a Single Image](https://arxiv.org/abs/2205.09343)|[Proj](https://jerrypiglet.github.io/publication/eccv2022-zhengqin/) & [Code](https://github.com/ViLab-UCSD/IndoorLightEditing)|[OpenRooms](https://github.com/ViLab-UCSD/OpenRooms)|&#10003;|&#10003;||
@@ -74,7 +74,7 @@ Inverse-rendering based Methods:
 
 
 ## Datasets
-+ Laval Photometric Indoor HDR Dataset [[link]](http://hdrdb.com/indoor_hdr_photometric/)
++ Laval Photometric Indoor HDR Dataset [[link]](http://hdrdb.com/indoor-hdr-photometric/)
 + Laval Outdoor HDR Dataset [[link]](http://outdoor.hdrdb.com/)
 + Laval Indoor HDR Dataset [[link]](http://indoor.hdrdb.com/)
 + Laval Indoor Spatially Varying HDR Dataset [[link]](http://indoorsv.hdrdb.com/)
