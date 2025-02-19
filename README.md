@@ -74,7 +74,7 @@ Inverse-rendering based Methods:
 
 
 ## Datasets
-+ Laval Photometric Indoor HDR Dataset [[link]](http://hdrdb.com/indoor_hdr_photometric/)
++ Laval Photometric Indoor HDR Dataset [[link]](http://hdrdb.com/indoor-hdr-photometric/)
 + Laval Outdoor HDR Dataset [[link]](http://outdoor.hdrdb.com/)
 + Laval Indoor HDR Dataset [[link]](http://indoor.hdrdb.com/)
 + Laval Indoor Spatially Varying HDR Dataset [[link]](http://indoorsv.hdrdb.com/)
