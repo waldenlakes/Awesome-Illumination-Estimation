@@ -33,7 +33,7 @@ Indoor Scenes:
 |2019|CVPR|[Neural illumination: Lighting prediction for indoor environments](https://openaccess.thecvf.com/content_CVPR_2019/papers/Song_Neural_Illumination_Lighting_Prediction_for_Indoor_Environments_CVPR_2019_paper.pdf)|[Proj](https://illumination.cs.princeton.edu/)|[Matterport3D](https://niessner.github.io/Matterport/)|&#10003;|&#10003;||
 |2017|SIGGRAPH|[Learning to predict indoor illumination from a single image](https://arxiv.org/pdf/1704.00090.pdf)|[Proj](http://vision.gel.ulaval.ca/~jflalonde/projects/deepIndoorLight/)|[LavalIndoorHDR](http://indoor.hdrdb.com/)|&#10003;|&#10003;||
 
-Ourdoor Scenes:
+Outdoor Scenes:
 |Year|Venue|Paper|Repo|Data|SV|ID|OD|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |2022|ECCV|[Neural Light Field Estimation for Street Scenes with Differentiable Virtual Object Insertion](https://arxiv.org/pdf/2208.09480.pdf)|[Proj](https://nv-tlabs.github.io/outdoor-ar/)||||&#10003;|
