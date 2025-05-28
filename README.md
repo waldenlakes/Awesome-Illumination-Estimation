@@ -13,6 +13,7 @@ SV:Spatially-Varying, ID:Indoor, OD:Outdoor, E:Editable
 Indoor Scenes:
 |Year|Venue|Paper|Repo|Data|SV|ID|OD|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|2025|TVCG|[IllumiDiff: Indoor Illumination Estimation from a Single Image with Diffusion Model](https://graphvision.whu.edu.cn/paper/2025/ShenShiYuan_TVCG_2025.pdf)||||&#10003;||
 |2024|CVPR|[LightOctree: Lightweight 3D Spatially-Coherent Indoor Lighting Estimation](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_LightOctree_Lightweight_3D_Spatially-Coherent_Indoor_Lighting_Estimation_CVPR_2024_paper.html)|||&#10003;|&#10003;||
 |2024|CVPR|[DiffusionLight: Light Probes for Free by Painting a Chrome Ball](https://openaccess.thecvf.com/content/CVPR2024/papers/Phongthawee_DiffusionLight_Light_Probes_for_Free_by_Painting_a_Chrome_Ball_CVPR_2024_paper.pdf)|[Proj](https://diffusionlight.github.io/) & [Code](https://github.com/DiffusionLight/DiffusionLight)|||&#10003;|&#10003;|
 |2024|CVPR|[Towards a Perceptual Evaluation Framework for Lighting Estimation](https://openaccess.thecvf.com/content/CVPR2024/html/Giroux_Towards_a_Perceptual_Evaluation_Framework_for_Lighting_Estimation_CVPR_2024_paper.html)|[Proj](https://lvsn.github.io/PerceptionMetric/)|||&#10003;|&#10003;|
