@@ -13,6 +13,9 @@ SV:Spatially-Varying, ID:Indoor, OD:Outdoor, E:Editable
 Indoor Scenes:
 |Year|Venue|Paper|Repo|Data|SV|ID|OD|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|2026|T-PAMI|[DiffusionLight-Turbo: Accelerated Light Probes for Free Via Single-Pass Chrome Ball Inpainting](https://arxiv.org/pdf/2507.01305)|[Proj](https://diffusionlight.github.io/turbo/)|||&#10003;|&#10003;|
+|2025|SIGGRAPH|[Spatiotemporally Consistent Indoor Lighting Estimation with Diffusion Priors](https://arxiv.org/pdf/2508.08384)|[Proj](https://oriontmt.github.io/Sig25-4DLighting/)||&#10003;|&#10003;||
+|2025|SIGGRAPH Asia|[STGlight: Online Indoor Lighting Estimation via Spatio-Temporal Gaussian Fusion](https://doi.org/10.1145/3763350)|[Proj](https://github.com/nauyihsnehs/STGlight)||&#10003;|&#10003;||
 |2025|ArXiv|[LuxDiT: Lighting Estimation with Video Diffusion Transformer](https://arxiv.org/pdf/2509.03680)|[Proj](https://research.nvidia.com/labs/toronto-ai/LuxDiT/)|||&#10003;|&#10003;|
 |2025|TVCG|[IllumiDiff: Indoor Illumination Estimation from a Single Image with Diffusion Model](https://graphvision.whu.edu.cn/paper/2025/ShenShiYuan_TVCG_2025.pdf)||||&#10003;||
 |2024|CVPR|[LightOctree: Lightweight 3D Spatially-Coherent Indoor Lighting Estimation](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_LightOctree_Lightweight_3D_Spatially-Coherent_Indoor_Lighting_Estimation_CVPR_2024_paper.html)|||&#10003;|&#10003;||
