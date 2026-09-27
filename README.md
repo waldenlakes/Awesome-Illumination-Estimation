@@ -13,6 +13,9 @@ SV:Spatially-Varying, ID:Indoor, OD:Outdoor, E:Editable
 Indoor Scenes:
 |Year|Venue|Paper|Repo|Data|SV|ID|OD|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|2026|ECCV|[Video Generation Models Are Inherent Lighting Estimators](https://arxiv.org/pdf/2607.04674)|[Proj](https://caiziqi.com/research/)|V-LITESet Dataset||&#10003;|&#10003;|
+|2026|CVPR|[Lighting in Motion: Spatiotemporal HDR Lighting Estimation](https://openaccess.thecvf.com/content/CVPR2026/html/Bolduc_Lighting_in_Motion_Spatiotemporal_HDR_Lighting_Estimation_CVPR_2026_paper.html)|[Code](https://github.com/Eyeline-Labs/LiMo)|[An example dataset](https://drive.google.com/file/d/1iL0aSn9LU9MZat0ezti40iXJwxr9wcRt/view?pli=1)|&#10003;|&#10003;|&#10003;|
+|2026|TIP|[IllumiExp: All-Frequency Illumination Estimation via HEALPix-Guided Diffusion](https://ieeexplore.ieee.org/document/11643487/)|[Code](https://github.com/nauyihsnehs/IllumiExp)|||&#10003;|&#10003;|
 |2026|T-PAMI|[DiffusionLight-Turbo: Accelerated Light Probes for Free Via Single-Pass Chrome Ball Inpainting](https://arxiv.org/pdf/2507.01305)|[Proj](https://diffusionlight.github.io/turbo/)|||&#10003;|&#10003;|
 |2025|SIGGRAPH|[Spatiotemporally Consistent Indoor Lighting Estimation with Diffusion Priors](https://arxiv.org/pdf/2508.08384)|[Proj](https://oriontmt.github.io/Sig25-4DLighting/)||&#10003;|&#10003;||
 |2025|SIGGRAPH Asia|[STGlight: Online Indoor Lighting Estimation via Spatio-Temporal Gaussian Fusion](https://doi.org/10.1145/3763350)|[Proj](https://github.com/nauyihsnehs/STGlight)||&#10003;|&#10003;||
@@ -76,6 +79,12 @@ Inverse-rendering based Methods:
 |2021|ICCV|[Objects as cameras: Estimating high-frequency illumination from shadows](https://openaccess.thecvf.com/content/ICCV2021/papers/Swedish_Objects_As_Cameras_Estimating_High-Frequency_Illumination_From_Shadows_ICCV_2021_paper.pdf)||[hdrihaven.com](https://hdrihaven.com) & Capture||&#10003;|&#10003;|
 |2021|CVPR|[Indoor lighting estimation using an event camera](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Indoor_Lighting_Estimation_Using_an_Event_Camera_CVPR_2021_paper.pdf)||Capture|&#10003;|&#10003;||
 |2020|ECCV|[Object-based illumination estimation with rendering-aware neural networks](https://arxiv.org/pdf/2008.02514.pdf)|[Proj](https://yuedong.shading.me/project/lightest/lightest.htm)|Collect||&#10003;||
+
+### Lighting Representation
+|Year|Venue|Paper|Repo|Data|SV|ID|OD|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|2026|CVPR|[UniLight: A Unified Representation for Lighting](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_UniLight_A_Unified_Representation_for_Lighting_CVPR_2026_paper.html)|[Proj](https://lvsn.github.io/UniLight)|||||
+|2026|CVPR|[VENI: Variational Encoder for Natural Illumination](https://openaccess.thecvf.com/content/CVPR2026/html/Walker_VENI_Variational_Encoder_for_Natural_Illumination_CVPR_2026_paper.html)|[Proj](https://paul-pw.github.io/veni/)|||||
 
 
 ## Datasets
